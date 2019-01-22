@@ -1,0 +1,10 @@
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\bin\Debug\CodeDom Test Form.exe.config
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\bin\Debug\CodeDom Test Form.exe
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\bin\Debug\CodeDom Test Form.pdb
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\obj\Debug\CodeDom Test Form.csprojResolveAssemblyReference.cache
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\obj\Debug\CodeDom_Test_Form.Form1.resources
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\obj\Debug\CodeDom_Test_Form.Properties.Resources.resources
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\obj\Debug\CodeDom Test Form.csproj.GenerateResource.Cache
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\obj\Debug\CodeDom Test Form.csproj.CoreCompileInputs.cache
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\obj\Debug\CodeDom Test Form.exe
+C:\Users\Corrupted\source\repos\CodeDom Test Form\CodeDom Test Form\obj\Debug\CodeDom Test Form.pdb

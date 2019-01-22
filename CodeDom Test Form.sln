@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDom Test Form", "CodeDom Test Form\CodeDom Test Form.csproj", "{EEC9A7D9-55EC-483B-819F-87DCDEFA6CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "ConsoleApp1\Stub.csproj", "{49BCB799-F84A-41ED-96C5-619F7A6DFD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC9A7D9-55EC-483B-819F-87DCDEFA6CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC9A7D9-55EC-483B-819F-87DCDEFA6CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC9A7D9-55EC-483B-819F-87DCDEFA6CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC9A7D9-55EC-483B-819F-87DCDEFA6CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BCB799-F84A-41ED-96C5-619F7A6DFD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BCB799-F84A-41ED-96C5-619F7A6DFD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BCB799-F84A-41ED-96C5-619F7A6DFD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BCB799-F84A-41ED-96C5-619F7A6DFD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D2BDDAD-5460-4649-BA37-73EC87BE9B76}
+	EndGlobalSection
+EndGlobal
